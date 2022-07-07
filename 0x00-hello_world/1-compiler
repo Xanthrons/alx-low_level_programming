@@ -1,3 +1,2 @@
 #!/bin/bash
-# this is the compiler of the c
-
+gcc -c $CFILE
