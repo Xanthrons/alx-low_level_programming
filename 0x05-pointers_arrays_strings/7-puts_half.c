@@ -1,8 +1,8 @@
+#include "alx.h"
 /**
  * puts_half - Prints out the first half of a string.
  * @str: input string to print.
  */
-int _putchar(char c);
 void puts_half(char *str)
 {
 	int i, j;

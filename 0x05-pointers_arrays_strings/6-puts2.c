@@ -1,8 +1,8 @@
+#include "alx.h"
 /**
  * puts2 - Prints out every other char of the string.
  * @str: input string to print.
  */
-int _putchar(char c);
 void puts2(char *str)
 {
 	int i;
