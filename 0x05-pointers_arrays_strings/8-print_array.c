@@ -1,10 +1,10 @@
 #include <stdio.h>
-#include "holberton.h"
 /**
  * print_array - Print an array up to n.
  * @a: the array of elements
  * @n: the number of elements of the array *a.
  */
+int _putchar(char c);
 void print_array(int *a, int n)
 {
 	int i;
