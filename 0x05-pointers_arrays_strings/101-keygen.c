@@ -1,4 +1,4 @@
-#import "alx.h"
+#include "alx.h"
 /**
  * main -
  * Return:
