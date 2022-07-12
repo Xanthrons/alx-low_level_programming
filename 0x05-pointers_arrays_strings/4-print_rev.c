@@ -1,3 +1,4 @@
+#include "holberton.h"
 #include <stdio.h>
 /**
  * print_rev - prints a string, followed by a new line.
@@ -14,7 +15,7 @@ void print_rev(char *s)
 	i--;
 	while (s[i] != '\0')
 	{
-		putchar(s[i--]);
+		_putchar(s[i--]);
 	}
-	putchar('\n');
+	_putchar('\n');
 }
